@@ -1,0 +1,4 @@
+#Sun Dec 15 16:38:58 MSK 2019
+base.0=C\:\\Users\\vladi\\udacity\\NetworkConnect\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
